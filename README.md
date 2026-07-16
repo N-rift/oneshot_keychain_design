@@ -22,7 +22,7 @@ The logo was recreated as a 3D model, modified with a 4 mm hole for key attachme
 
 ## Preview
 
-![ONESHOT Keychain](oneshot_keychain.png)
+<img src="oneshot_keychain.png" width="150">
 
 ## Design Process
 
